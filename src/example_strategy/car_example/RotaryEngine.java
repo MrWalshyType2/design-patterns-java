@@ -1,4 +1,4 @@
-package example_strategy;
+package example_strategy.car_example;
 
 class RotaryEngine implements Engine {
 

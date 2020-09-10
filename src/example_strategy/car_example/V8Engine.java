@@ -1,4 +1,4 @@
-package example_strategy;
+package example_strategy.car_example;
 
 public class V8Engine implements Engine {
 

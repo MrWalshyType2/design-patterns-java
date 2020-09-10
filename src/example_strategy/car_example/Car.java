@@ -1,4 +1,4 @@
-package example_strategy;
+package example_strategy.car_example;
 
 public abstract class Car {
 	// Ref var for the Engine interface (super-type)
